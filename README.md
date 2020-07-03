@@ -22,6 +22,7 @@ A curated list of awesome web-perf resources
 ## Rendering
 - https://aerotwist.com/blog/the-anatomy-of-a-frame/
 
+
 ## Chrome Dev Tools
 - https://web.dev/measure
 - https://scotch.io/tutorials/how-to-use-chrome-dev-tools-to-find-performance-bottlenecks
@@ -31,19 +32,22 @@ A curated list of awesome web-perf resources
 - https://reactjs.org/docs/optimizing-performance.html
 
 ## Angular Specific
+- https://github.com/mgechev/angular-performance-checklist
+- https://medium.com/faun/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
 
 ## Vue Specific
-
+- https://sweetcode.io/vue-performance-optimization/
 
 ## Analyze
 - https://developers.google.com/web/tools/chrome-devtools/rendering-tools/
 - https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb
 
-## Jargon
-
+## Perf Jargon
+- https://web.dev/performance-scoring/
 
 ## Measuring Perf
 - https://developers.google.com/web/fundamentals/performance/rail
+- https://developers.google.com/web/tools/lighthouse
 
 
 ## Handling Assets
@@ -59,6 +63,7 @@ A curated list of awesome web-perf resources
 - https://images.guide/
 
 ### Fonts
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization
 
 ### SVG
 - https://jakearchibald.github.io/svgomg/
